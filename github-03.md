@@ -1,5 +1,8 @@
 # Forks and Pull Requests in GitHub
 
+* by Konrad M. Lawson
+* [Originally published on March 26, 2013 at ProfHacker](http://github.com)
+
 Today we'll continue our series of postings on [GitHub](http://github.com). 
 
 From what we have seen so far, GitHub is a place to sync a repository of texts, publicly share these text files for free, and provides a complete solution for version control of text-based projects. I mentioned in a previous posting that private repositories require a paid account but the education liaison at GitHub, [John Britton][6], recently pointed out to me that it is possible for students and educators to get a [special educational account][7] that bypasses some of the restrictions of the free account.
